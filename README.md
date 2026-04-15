@@ -263,6 +263,17 @@ curl -X DELETE http://localhost:8080/api/transactions/1
 
 ---
 
+
+## 📸 Screenshots
+
+![Dashboard](Screenshots/DashBoard.png)
+![Dashboard 2](Screenshots/D2.png)
+![Transactions](Screenshots/Transactions.png)
+![New Transaction](Screenshots/NewTransactions.png)
+![Categories](Screenshots/Categories.png)
+![Expense](Screenshots/Expense.png)
+
+
 ## Features
 
 - **Dashboard** — KPI cards (Income / Expense / Balance), doughnut chart by category, monthly bar chart, recent transactions table
