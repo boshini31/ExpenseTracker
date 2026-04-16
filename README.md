@@ -265,7 +265,11 @@ curl -X DELETE http://localhost:8080/api/transactions/1
 
 
 ## 📸 Screenshots
-
+![HomePage](Screenshots/HomePage1.png)
+![HP2](Screenshots/HP2.png)
+![HP3](Screenshots/HP3.png)
+![Login](Screenshots/Login.png)
+![Signup](Screenshots/Signup.png)
 ![Dashboard](Screenshots/DashBoard.png)
 ![Dashboard 2](Screenshots/D2.png)
 ![Transactions](Screenshots/Transactions.png)
